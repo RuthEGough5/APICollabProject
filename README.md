@@ -2,17 +2,16 @@
 
 First Collaboration for Commonwealth Coders Team 9 using JavaScript, Git, Trello, ChromeDev Tools
 
+THIS WAS OUR ROUGH DRAFT. The completed lesson is here: https://github.com/cman0493/GitCollab
+
 Team Nine are: (name: account)
 
 Team membership: GitHub account
-
-Ashley	Gutierrez: ashrhea1986
 
 Christopher	Hunley: cman0493 
 
 Ruth Gough: ruthegough5
 
-Amber Jackson:
 
 We are creating a web-friendly API with JavaScript, Git, Trello, ChromeDev, and Slack.
 
